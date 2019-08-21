@@ -11,7 +11,7 @@ body {
   align-items: center;
   color: white;
   text-align: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../assets/hero-image-min.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../assets/hero-wallpaper-min.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
