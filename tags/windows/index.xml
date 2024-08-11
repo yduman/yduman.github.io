@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Yadullah Duman</title>
-    <link>https://yduman.dev/tags/windows/</link>
+    <link>www.yduman.dev/tags/windows/</link>
     <description>Recent content in Windows on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yduman.dev/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="www.yduman.dev/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to setup WSL with Windows Terminal, ZSH and powerlevel10k</title>
-      <link>https://yduman.dev/posts/wsl-setup/</link>
+      <link>www.yduman.dev/posts/wsl-setup/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://yduman.dev/posts/wsl-setup/</guid>
-      <description>I wanted to share with you my recent WSL2 setup on my new workstation which was ridiculously easy to do!&#xA;What I wanted Link to heading Basically I wanted the same setup that I would run on my MacBook and my Linux machines:&#xA;A configurable terminal similar to iTerm2 or Tilix ZSH shell with oh-my-zsh Powerlevel10k theme Docker and VS Code support What you can expect Link to heading In the following, I will guide you step by step on how I did my setup.</description>
+      <guid>www.yduman.dev/posts/wsl-setup/</guid>
+      <description>I wanted to share with you my recent WSL2 setup on my new workstation which was ridiculously easy to do!&#xA;What I wanted Basically I wanted the same setup that I would run on my MacBook and my Linux machines:&#xA;A configurable terminal similar to iTerm2 or Tilix ZSH shell with oh-my-zsh Powerlevel10k theme Docker and VS Code support What you can expect In the following, I will guide you step by step on how I did my setup.</description>
     </item>
   </channel>
 </rss>

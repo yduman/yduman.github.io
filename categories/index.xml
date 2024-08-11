@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Yadullah Duman</title>
+    <link>www.yduman.dev/categories/</link>
+    <description>Recent content in Categories on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="www.yduman.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node.js</title>
+      <link>www.yduman.dev/categories/node.js/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>www.yduman.dev/categories/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>www.yduman.dev/categories/tools/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>www.yduman.dev/categories/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>External</title>
+      <link>www.yduman.dev/categories/external/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.yduman.dev/categories/external/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>www.yduman.dev/categories/react/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>www.yduman.dev/categories/react/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
