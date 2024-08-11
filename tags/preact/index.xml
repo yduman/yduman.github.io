@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preact on Yadullah Duman</title>
+    <link>http://localhost:1313/tags/preact/</link>
+    <description>Recent content in Preact on Yadullah Duman</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/preact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preact: Alternative to React</title>
+      <link>http://localhost:1313/posts/preact/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/preact/</guid>
+      <description>The original post is written in German on the MaibornWolff website.&#xA;The following is a plain translation of it.&#xA;In this blog post, I want to introduce you to Preact. About a year ago, I had the opportunity to test it during a spike. As a React fan, it was exciting to try out a good alternative, and I was impressed by its performance. Recently, the new version 10, &amp;ldquo;Preact X,&amp;rdquo; was released, bringing additional new features.</description>
+    </item>
+  </channel>
+</rss>
