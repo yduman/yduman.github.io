@@ -1,0 +1,66 @@
+baseURL = 'https://yduman.dev'
+title = "Yadullah Duman"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 10
+
+[markup.highlight]
+style = "github-dark"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[params]
+author = "Yadullah Duman"
+info = "is a caffeine driven developer"
+description = "Digital Garden of Yadullah Duman"
+keywords = "blog,developer,personal"
+since = 2018
+colorScheme = "auto"
+hideColorSchemeToggle = false
+avatarurl = "images/Profile.jpg"
+capitalizeListTitles = false
+enableTwemoji = true
+
+[[params.social]]
+name = "GitHub"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/yduman/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 2
+url = "https://x.com/yduman_dev"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://x.com/yduman_dev"
+
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "posts/"
+
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
+
+[[menu.main]]
+name = "Uses"
+weight = 3
+url = "uses/"
+
+[[menu.main]]
+name = "Projects"
+weight = 4
+url  = "projects/"
+
