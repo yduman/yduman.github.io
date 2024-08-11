@@ -1,4 +1,4 @@
-baseURL = 'https://yduman.dev'
+baseURL = 'www.yduman.dev'
 title = "Yadullah Duman"
 theme = "hugo-coder"
 languageCode = "en"
