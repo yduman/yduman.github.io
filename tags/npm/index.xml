@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NPM on Yadullah Duman</title>
-    <link>http://localhost:1313/tags/npm/</link>
+    <link>http://www.yduman.dev/tags/npm/</link>
     <description>Recent content in NPM on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yduman.dev/tags/npm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first NPM library: rmby</title>
-      <link>http://localhost:1313/posts/rmby/</link>
+      <link>http://www.yduman.dev/posts/rmby/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rmby/</guid>
+      <guid>http://www.yduman.dev/posts/rmby/</guid>
       <description>Recently, I released version 1.0 of my first Node.js library called rmby. In this post, I want to explain what it is, what it does and how you can use it. On the bottom of this post you will find the respective links.&#xA;What is rmby? Link to heading rmby (“remove by”) is a zero-dependency Node.js library for removing files asynchronously on a given directory by certain filter criteria’s. It provides a fluent interface that guides the user when creating the remove query.</description>
     </item>
   </channel>
