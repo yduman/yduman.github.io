@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yadullah Duman</title>
-    <link>www.yduman.dev/tags/</link>
+    <link>http://www.yduman.dev/tags/</link>
     <description>Recent content in Tags on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="www.yduman.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yduman.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>www.yduman.dev/tags/backend/</link>
+      <link>http://www.yduman.dev/tags/backend/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/backend/</guid>
+      <guid>http://www.yduman.dev/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>www.yduman.dev/tags/node.js/</link>
+      <link>http://www.yduman.dev/tags/node.js/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/node.js/</guid>
+      <guid>http://www.yduman.dev/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>NPM</title>
-      <link>www.yduman.dev/tags/npm/</link>
+      <link>http://www.yduman.dev/tags/npm/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/npm/</guid>
+      <guid>http://www.yduman.dev/tags/npm/</guid>
       <description></description>
     </item>
     <item>
       <title>Dev-Setup</title>
-      <link>www.yduman.dev/tags/dev-setup/</link>
+      <link>http://www.yduman.dev/tags/dev-setup/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/dev-setup/</guid>
+      <guid>http://www.yduman.dev/tags/dev-setup/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>www.yduman.dev/tags/tools/</link>
+      <link>http://www.yduman.dev/tags/tools/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/tools/</guid>
+      <guid>http://www.yduman.dev/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>www.yduman.dev/tags/windows/</link>
+      <link>http://www.yduman.dev/tags/windows/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/windows/</guid>
+      <guid>http://www.yduman.dev/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>External</title>
-      <link>www.yduman.dev/tags/external/</link>
+      <link>http://www.yduman.dev/tags/external/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/external/</guid>
+      <guid>http://www.yduman.dev/tags/external/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend</title>
-      <link>www.yduman.dev/tags/frontend/</link>
+      <link>http://www.yduman.dev/tags/frontend/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/frontend/</guid>
+      <guid>http://www.yduman.dev/tags/frontend/</guid>
       <description></description>
     </item>
     <item>
       <title>JS</title>
-      <link>www.yduman.dev/tags/js/</link>
+      <link>http://www.yduman.dev/tags/js/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/js/</guid>
+      <guid>http://www.yduman.dev/tags/js/</guid>
       <description></description>
     </item>
     <item>
       <title>Preact</title>
-      <link>www.yduman.dev/tags/preact/</link>
+      <link>http://www.yduman.dev/tags/preact/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/preact/</guid>
+      <guid>http://www.yduman.dev/tags/preact/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>www.yduman.dev/tags/react/</link>
+      <link>http://www.yduman.dev/tags/react/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/tags/react/</guid>
+      <guid>http://www.yduman.dev/tags/react/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.yduman.dev/</loc>
+    <loc>http://www.yduman.dev/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/about/</loc>
+    <loc>http://www.yduman.dev/about/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/projects/</loc>
+    <loc>http://www.yduman.dev/projects/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/authors/</loc>
+    <loc>http://www.yduman.dev/authors/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/backend/</loc>
+    <loc>http://www.yduman.dev/tags/backend/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/categories/</loc>
+    <loc>http://www.yduman.dev/categories/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/rmby/</loc>
+    <loc>http://www.yduman.dev/posts/rmby/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/node.js/</loc>
+    <loc>http://www.yduman.dev/tags/node.js/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/categories/node.js/</loc>
+    <loc>http://www.yduman.dev/categories/node.js/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/npm/</loc>
+    <loc>http://www.yduman.dev/tags/npm/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/</loc>
+    <loc>http://www.yduman.dev/posts/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/</loc>
+    <loc>http://www.yduman.dev/tags/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/authors/yadullah-duman/</loc>
+    <loc>http://www.yduman.dev/authors/yadullah-duman/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/dev-setup/</loc>
+    <loc>http://www.yduman.dev/tags/dev-setup/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/wsl-setup/</loc>
+    <loc>http://www.yduman.dev/posts/wsl-setup/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/tools/</loc>
+    <loc>http://www.yduman.dev/tags/tools/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/categories/tools/</loc>
+    <loc>http://www.yduman.dev/categories/tools/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/windows/</loc>
+    <loc>http://www.yduman.dev/tags/windows/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/external/</loc>
+    <loc>http://www.yduman.dev/tags/external/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/categories/external/</loc>
+    <loc>http://www.yduman.dev/categories/external/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/frontend/</loc>
+    <loc>http://www.yduman.dev/tags/frontend/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/js/</loc>
+    <loc>http://www.yduman.dev/tags/js/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/preact/</loc>
+    <loc>http://www.yduman.dev/tags/preact/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/preact/</loc>
+    <loc>http://www.yduman.dev/posts/preact/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/categories/react/</loc>
+    <loc>http://www.yduman.dev/categories/react/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/react-context/</loc>
+    <loc>http://www.yduman.dev/posts/react-context/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/tags/react/</loc>
+    <loc>http://www.yduman.dev/tags/react/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/posts/react-hooks/</loc>
+    <loc>http://www.yduman.dev/posts/react-hooks/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.yduman.dev/series/</loc>
+    <loc>http://www.yduman.dev/series/</loc>
   </url>
 </urlset>

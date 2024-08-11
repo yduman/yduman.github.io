@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Yadullah Duman</title>
-    <link>www.yduman.dev/posts/</link>
+    <link>http://www.yduman.dev/posts/</link>
     <description>Recent content in Posts on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="www.yduman.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yduman.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first NPM library: rmby</title>
-      <link>www.yduman.dev/posts/rmby/</link>
+      <link>http://www.yduman.dev/posts/rmby/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/rmby/</guid>
+      <guid>http://www.yduman.dev/posts/rmby/</guid>
       <description>Recently, I released version 1.0 of my first Node.js library called rmby. In this post, I want to explain what it is, what it does and how you can use it. On the bottom of this post you will find the respective links.&#xA;What is rmby? Link to heading rmby (“remove by”) is a zero-dependency Node.js library for removing files asynchronously on a given directory by certain filter criteria’s. It provides a fluent interface that guides the user when creating the remove query.</description>
     </item>
     <item>
       <title>How to setup WSL with Windows Terminal, ZSH and powerlevel10k</title>
-      <link>www.yduman.dev/posts/wsl-setup/</link>
+      <link>http://www.yduman.dev/posts/wsl-setup/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/wsl-setup/</guid>
+      <guid>http://www.yduman.dev/posts/wsl-setup/</guid>
       <description>I wanted to share with you my recent WSL2 setup on my new workstation which was ridiculously easy to do!&#xA;What I wanted Link to heading Basically I wanted the same setup that I would run on my MacBook and my Linux machines:&#xA;A configurable terminal similar to iTerm2 or Tilix ZSH shell with oh-my-zsh Powerlevel10k theme Docker and VS Code support What you can expect Link to heading In the following, I will guide you step by step on how I did my setup.</description>
     </item>
     <item>
       <title>Preact: Alternative to React</title>
-      <link>www.yduman.dev/posts/preact/</link>
+      <link>http://www.yduman.dev/posts/preact/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/preact/</guid>
+      <guid>http://www.yduman.dev/posts/preact/</guid>
       <description>The original post is written in German on the MaibornWolff website.&#xA;The following is a plain translation of it.&#xA;In this blog post, I want to introduce you to Preact. About a year ago, I had the opportunity to test it during a spike. As a React fan, it was exciting to try out a good alternative, and I was impressed by its performance. Recently, the new version 10, &amp;ldquo;Preact X,&amp;rdquo; was released, bringing additional new features.</description>
     </item>
     <item>
       <title>How to use the Context API in React with Hooks</title>
-      <link>www.yduman.dev/posts/react-context/</link>
+      <link>http://www.yduman.dev/posts/react-context/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/react-context/</guid>
+      <guid>http://www.yduman.dev/posts/react-context/</guid>
       <description>In one of my last posts, I shared the announcement of Hooks by the React team with you. About two weeks ago, the React team finally released the Hooks API with version 16.8. In this blogpost I want to share one approach of how to use the useContext Hook along with useReducer in order to create and update context. I will not explain how the Context or Hooks API work. If you are not familiar with them, then please read the documentation.</description>
     </item>
     <item>
       <title>Get Hooked with React Hooks</title>
-      <link>www.yduman.dev/posts/react-hooks/</link>
+      <link>http://www.yduman.dev/posts/react-hooks/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/react-hooks/</guid>
+      <guid>http://www.yduman.dev/posts/react-hooks/</guid>
       <description>So yesterday ReactConf started with the opening keynote of Sophie Alpert and Dan Abramov about “React Today and Tomorrow”. Dan Abramov introduced Hooks, which is currently in React v16.7.0-alpha and in a RFC status. I was really hooked (pun intended) about the new possibilites with the new API and many library developers immediately started to try it out and they were amazed too.&#xA;Why Hooks? Link to heading The React team observed over time, that it is hard to reuse stateful logic between components.</description>
     </item>
   </channel>

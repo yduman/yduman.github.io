@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JS on Yadullah Duman</title>
-    <link>www.yduman.dev/tags/js/</link>
+    <link>http://www.yduman.dev/tags/js/</link>
     <description>Recent content in JS on Yadullah Duman</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="www.yduman.dev/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yduman.dev/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preact: Alternative to React</title>
-      <link>www.yduman.dev/posts/preact/</link>
+      <link>http://www.yduman.dev/posts/preact/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/preact/</guid>
+      <guid>http://www.yduman.dev/posts/preact/</guid>
       <description>The original post is written in German on the MaibornWolff website.&#xA;The following is a plain translation of it.&#xA;In this blog post, I want to introduce you to Preact. About a year ago, I had the opportunity to test it during a spike. As a React fan, it was exciting to try out a good alternative, and I was impressed by its performance. Recently, the new version 10, &amp;ldquo;Preact X,&amp;rdquo; was released, bringing additional new features.</description>
     </item>
     <item>
       <title>How to use the Context API in React with Hooks</title>
-      <link>www.yduman.dev/posts/react-context/</link>
+      <link>http://www.yduman.dev/posts/react-context/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/react-context/</guid>
+      <guid>http://www.yduman.dev/posts/react-context/</guid>
       <description>In one of my last posts, I shared the announcement of Hooks by the React team with you. About two weeks ago, the React team finally released the Hooks API with version 16.8. In this blogpost I want to share one approach of how to use the useContext Hook along with useReducer in order to create and update context. I will not explain how the Context or Hooks API work. If you are not familiar with them, then please read the documentation.</description>
     </item>
     <item>
       <title>Get Hooked with React Hooks</title>
-      <link>www.yduman.dev/posts/react-hooks/</link>
+      <link>http://www.yduman.dev/posts/react-hooks/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>www.yduman.dev/posts/react-hooks/</guid>
+      <guid>http://www.yduman.dev/posts/react-hooks/</guid>
       <description>So yesterday ReactConf started with the opening keynote of Sophie Alpert and Dan Abramov about “React Today and Tomorrow”. Dan Abramov introduced Hooks, which is currently in React v16.7.0-alpha and in a RFC status. I was really hooked (pun intended) about the new possibilites with the new API and many library developers immediately started to try it out and they were amazed too.&#xA;Why Hooks? Link to heading The React team observed over time, that it is hard to reuse stateful logic between components.</description>
     </item>
   </channel>
