@@ -13,7 +13,7 @@
       <link>www.yduman.dev/posts/wsl-setup/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid>www.yduman.dev/posts/wsl-setup/</guid>
-      <description>I wanted to share with you my recent WSL2 setup on my new workstation which was ridiculously easy to do!&#xA;What I wanted Basically I wanted the same setup that I would run on my MacBook and my Linux machines:&#xA;A configurable terminal similar to iTerm2 or Tilix ZSH shell with oh-my-zsh Powerlevel10k theme Docker and VS Code support What you can expect In the following, I will guide you step by step on how I did my setup.</description>
+      <description>I wanted to share with you my recent WSL2 setup on my new workstation which was ridiculously easy to do!&#xA;What I wanted Link to heading Basically I wanted the same setup that I would run on my MacBook and my Linux machines:&#xA;A configurable terminal similar to iTerm2 or Tilix ZSH shell with oh-my-zsh Powerlevel10k theme Docker and VS Code support What you can expect Link to heading In the following, I will guide you step by step on how I did my setup.</description>
     </item>
   </channel>
 </rss>

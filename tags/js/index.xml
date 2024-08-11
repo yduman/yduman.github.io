@@ -27,7 +27,7 @@
       <link>www.yduman.dev/posts/react-hooks/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       <guid>www.yduman.dev/posts/react-hooks/</guid>
-      <description>So yesterday ReactConf started with the opening keynote of Sophie Alpert and Dan Abramov about “React Today and Tomorrow”. Dan Abramov introduced Hooks, which is currently in React v16.7.0-alpha and in a RFC status. I was really hooked (pun intended) about the new possibilites with the new API and many library developers immediately started to try it out and they were amazed too.&#xA;Why Hooks? The React team observed over time, that it is hard to reuse stateful logic between components.</description>
+      <description>So yesterday ReactConf started with the opening keynote of Sophie Alpert and Dan Abramov about “React Today and Tomorrow”. Dan Abramov introduced Hooks, which is currently in React v16.7.0-alpha and in a RFC status. I was really hooked (pun intended) about the new possibilites with the new API and many library developers immediately started to try it out and they were amazed too.&#xA;Why Hooks? Link to heading The React team observed over time, that it is hard to reuse stateful logic between components.</description>
     </item>
   </channel>
 </rss>
