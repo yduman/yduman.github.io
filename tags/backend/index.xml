@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Backend on Yadullah Duman</title><link>http://www.yduman.dev/tags/backend/</link><description>Recent content in Backend on Yadullah Duman</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.yduman.dev/tags/backend/index.xml" rel="self" type="application/rss+xml"/><item><title>How to turn off logging in NestJS tests</title><link>http://www.yduman.dev/posts/nestjs-testing-disable-logging/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/posts/nestjs-testing-disable-logging/</guid><description>&lt;p>This post will be very short. I want to share one approach on how to deal with the Logger class when running NestJS unit tests. In one of our projects, we had a small issue, that when running tests, the logger would start logging when certain branches of the code were reached. Obviously, these branches should log when running on production, but for tests, we didn&amp;rsquo;t care much.&lt;/p>
-&lt;h2 id="example-scenario">Example Scenario&lt;/h2>
-&lt;p>Imagine this very simplified scenario. You want to test all branches of &lt;code>getAllUsers&lt;/code>. The error case test would always execute the error log.&lt;/p></description></item><item><title>My first NPM library: rmby</title><link>http://www.yduman.dev/posts/rmby/</link><pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/posts/rmby/</guid><description>&lt;p>Recently, I released version 1.0 of my first Node.js library called &lt;a href="https://www.npmjs.com/package/rmby">rmby&lt;/a>. In this post, I want to explain what it is, what it does and how you can use it. On the bottom of this post you will find the respective links.&lt;/p>
-&lt;h2 id="what-is-rmby">&lt;strong>What is rmby?&lt;/strong>&lt;/h2>
-&lt;p>rmby (&lt;em>“remove by”&lt;/em>) is a zero-dependency Node.js library for removing files asynchronously on a given directory by certain filter criteria’s. It provides a &lt;a href="https://martinfowler.com/bliki/FluentInterface.html">fluent interface&lt;/a> that guides the user when creating the remove query.&lt;/p></description></item></channel></rss>
+&lt;h2 id="example-scenario">
+ Example Scenario
+ &lt;a class="heading-link" href="#example-scenario">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Imagine this very simplified scenario. You want to test all branches of &lt;code>getAllUsers&lt;/code>. The error case test would always execute the error log.&lt;/p></description></item><item><title>My first NPM library: rmby</title><link>http://www.yduman.dev/posts/rmby/</link><pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/posts/rmby/</guid><description>&lt;p>Recently, I released version 1.0 of my first Node.js library called &lt;a href="https://www.npmjs.com/package/rmby" class="external-link" target="_blank" rel="noopener">rmby&lt;/a>. In this post, I want to explain what it is, what it does and how you can use it. On the bottom of this post you will find the respective links.&lt;/p>
+&lt;h2 id="what-is-rmby">
+ &lt;strong>What is rmby?&lt;/strong>
+ &lt;a class="heading-link" href="#what-is-rmby">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>rmby (&lt;em>“remove by”&lt;/em>) is a zero-dependency Node.js library for removing files asynchronously on a given directory by certain filter criteria’s. It provides a &lt;a href="https://martinfowler.com/bliki/FluentInterface.html" class="external-link" target="_blank" rel="noopener">fluent interface&lt;/a> that guides the user when creating the remove query.&lt;/p></description></item></channel></rss>
