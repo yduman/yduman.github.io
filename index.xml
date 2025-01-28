@@ -16,7 +16,7 @@
  &lt;/a>
 &lt;/h1>
 &lt;ul>
-&lt;li>VS Code or IntelliJ Ultimate&lt;/li>
+&lt;li>&lt;a href="https://code.visualstudio.com/" class="external-link" target="_blank" rel="noopener">Visual Studio Code&lt;/a> or &lt;a href="https://www.jetbrains.com/idea/" class="external-link" target="_blank" rel="noopener">IntelliJ Ultimate&lt;/a>&lt;/li>
 &lt;li>Fonts: &lt;a href="https://www.jetbrains.com/lp/mono/" class="external-link" target="_blank" rel="noopener">JetBrains Mono&lt;/a>&lt;/li>
 &lt;li>Theme: &lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener">Dracula&lt;/a>&lt;/li>
 &lt;li>Icons: &lt;a href="https://github.com/material-extensions/vscode-material-icon-theme" class="external-link" target="_blank" rel="noopener">Material Icon Theme&lt;/a>&lt;/li>
@@ -33,7 +33,7 @@
 &lt;li>Shell: &lt;a href="https://ohmyz.sh/" class="external-link" target="_blank" rel="noopener">oh-my-zsh&lt;/a>&lt;/li>
 &lt;li>Prompt: &lt;a href="https://starship.rs/" class="external-link" target="_blank" rel="noopener">Starship&lt;/a>&lt;/li>
 &lt;li>Theme: &lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener">Dracula&lt;/a>&lt;/li>
-&lt;li>Font: &lt;a href="https://github.com/tonsky/FiraCode" class="external-link" target="_blank" rel="noopener">Fira Code&lt;/a> Nerd Font&lt;/li>
+&lt;li>Font: &lt;a href="https://github.com/tonsky/FiraCode" class="external-link" target="_blank" rel="noopener">Fira Code Nerd Font&lt;/a>&lt;/li>
 &lt;li>Tools:
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/atuinsh/atuin" class="external-link" target="_blank" rel="noopener">atuin&lt;/a>&lt;/li>
@@ -54,7 +54,7 @@
  &lt;/a>
 &lt;/h1>
 &lt;ul>
-&lt;li>Browser: Brave&lt;/li>
+&lt;li>Browser: &lt;a href="https://brave.com/" class="external-link" target="_blank" rel="noopener">Brave&lt;/a>&lt;/li>
 &lt;li>Password manager: &lt;a href="https://1password.com/" class="external-link" target="_blank" rel="noopener">1Password&lt;/a>&lt;/li>
 &lt;li>Window manager: &lt;a href="https://rectangleapp.com/" class="external-link" target="_blank" rel="noopener">Rectangle&lt;/a>&lt;/li>
 &lt;li>Keymaps: &lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener">Karabiner Elements&lt;/a>&lt;/li>
