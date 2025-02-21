@@ -7,7 +7,7 @@
  &lt;/a>
 &lt;/h2>
 &lt;p>&lt;a href="https://github.com/arc42/quality.arc42.org-site" class="external-link" target="_blank" rel="noopener">&lt;strong>quality.arc42.org&lt;/strong>&lt;/a> Quality requirements and goals for software and system architectures.&lt;/p></description></item><item><title>Uses</title><link>http://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/uses/</guid><description>&lt;p>Things I use to create software&lt;/p>
-&lt;p>&lt;em>Last updated: January 28, 2025&lt;/em>&lt;/p>
+&lt;p>&lt;em>Last updated: February 21, 2025&lt;/em>&lt;/p>
 &lt;h1 id="editor">
  Editor
  &lt;a class="heading-link" href="#editor">
@@ -37,10 +37,14 @@
 &lt;li>Tools:
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/atuinsh/atuin" class="external-link" target="_blank" rel="noopener">atuin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sharkdp/bat" class="external-link" target="_blank" rel="noopener">bat&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/dandavison/delta" class="external-link" target="_blank" rel="noopener">delta&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wagoodman/dive" class="external-link" target="_blank" rel="noopener">dive&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/eza-community/eza" class="external-link" target="_blank" rel="noopener">eza&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/httpie/cli" class="external-link" target="_blank" rel="noopener">HTTPie&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/jesseduffield/lazygit" class="external-link" target="_blank" rel="noopener">lazygit&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/jesseduffield/lazydocker" class="external-link" target="_blank" rel="noopener">lazydocker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/volta-cli/volta" class="external-link" target="_blank" rel="noopener">volta&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ajeetdsouza/zoxide" class="external-link" target="_blank" rel="noopener">zoxide&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/zsh-users/zsh-autosuggestions" class="external-link" target="_blank" rel="noopener">zsh-autosuggestions&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/zsh-users/zsh-syntax-highlighting" class="external-link" target="_blank" rel="noopener">zsh-syntax-highlighting&lt;/a>&lt;/li>
@@ -59,9 +63,8 @@
 &lt;li>Password manager: &lt;a href="https://1password.com/" class="external-link" target="_blank" rel="noopener">1Password&lt;/a>&lt;/li>
 &lt;li>Window manager: &lt;a href="https://rectangleapp.com/" class="external-link" target="_blank" rel="noopener">Rectangle&lt;/a>&lt;/li>
 &lt;li>Keymaps: &lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener">Karabiner Elements&lt;/a>&lt;/li>
-&lt;li>Notes: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener">Obsidian&lt;/a>&lt;/li>
+&lt;li>Notes/Todo: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener">Obsidian&lt;/a>&lt;/li>
 &lt;li>Music: &lt;a href="https://open.spotify.com/" class="external-link" target="_blank" rel="noopener">Spotify&lt;/a>&lt;/li>
-&lt;li>Todo: Regular macOS Reminders app&lt;/li>
 &lt;/ul>
 &lt;h1 id="hardware">
  Hardware
