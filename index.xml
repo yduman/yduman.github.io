@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yadullah Duman</title><link>http://www.yduman.dev/</link><description>Recent content on Yadullah Duman</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.yduman.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>http://www.yduman.dev/projects/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/projects/</guid><description>&lt;p>Here are some side and open source projects where I am currently investing or have invested some good amount of time. These are mostly projects that either solved my own problems or I found interesting enough for contribution. Besides these projects, I am mainly busy with customer projects that I won&amp;rsquo;t list here for obvious reasons.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yadullah Duman</title><link>http://www.yduman.dev/</link><description>Recent content on Yadullah Duman</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.yduman.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>The Hidden Dangers of JSON.stringify</title><link>http://www.yduman.dev/posts/json-stringify-dangers/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/posts/json-stringify-dangers/</guid><description>&lt;p>In Node.js, it&amp;rsquo;s common practice to log objects during error handling or debugging using &lt;code>JSON.stringify&lt;/code>. It&amp;rsquo;s one of the first things you&amp;rsquo;re taught when learning Node.js.
+Nowadays, I believe you should not use it when debugging, as there are a couple of footguns that are not obvious. Since I encountered this problem while troubleshooting a bug, I wanted to highlight what can happen behind the scenes.&lt;/p>
+&lt;h2 id="serialization-throws">
+ Serialization Throws
+ &lt;a class="heading-link" href="#serialization-throws">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="circular-references">
+ Circular References
+ &lt;a class="heading-link" href="#circular-references">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>The most common error is probably the famous &lt;code>Converting circular structure to JSON&lt;/code> error. It can be easily triggered if you try to log request or response objects.&lt;/p></description></item><item><title>Projects</title><link>http://www.yduman.dev/projects/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/projects/</guid><description>&lt;p>Here are some side and open source projects where I am currently investing or have invested some good amount of time. These are mostly projects that either solved my own problems or I found interesting enough for contribution. Besides these projects, I am mainly busy with customer projects that I won&amp;rsquo;t list here for obvious reasons.&lt;/p>
 &lt;h2 id="currently-active">
  Currently Active
  &lt;a class="heading-link" href="#currently-active">
