@@ -22,7 +22,15 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>&lt;a href="https://github.com/arc42/quality.arc42.org-site" class="external-link" target="_blank" rel="noopener">&lt;strong>quality.arc42.org&lt;/strong>&lt;/a> Quality requirements and goals for software and system architectures.&lt;/p></description></item><item><title>Uses</title><link>http://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/uses/</guid><description>&lt;p>Things I use to create software&lt;/p>
+&lt;p>😴&lt;/p>
+&lt;h2 id="highlights">
+ Highlights
+ &lt;a class="heading-link" href="#highlights">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/MaibornWolff/retro" class="external-link" target="_blank" rel="noopener">&lt;strong>retro&lt;/strong>&lt;/a> Self-hostable web-app designed for remote retrospectives and planning poker sessions.&lt;/p></description></item><item><title>Uses</title><link>http://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.yduman.dev/uses/</guid><description>&lt;p>Things I use to create software&lt;/p>
 &lt;p>&lt;em>Last updated: February 21, 2025&lt;/em>&lt;/p>
 &lt;h1 id="editor">
  Editor
