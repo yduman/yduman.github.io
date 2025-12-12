@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Claude Code on yduman.dev</title><link>https://www.yduman.dev/tags/claude-code/</link><description>Recent content in Claude Code on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/tags/claude-code/index.xml" rel="self" type="application/rss+xml"/><item><title>Six Months of Agentic Coding in the Trenches: Lessons from a Brownfield Project</title><link>https://www.yduman.dev/posts/six-months-of-agentic-coding/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/six-months-of-agentic-coding/</guid><description>&lt;div class="notice note"&gt;
+ &lt;div class="notice-title"&gt;
+ &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
+ &lt;/div&gt;
+ &lt;div class="notice-content"&gt;This post is fully written by me and was checked for typos and grammar errors with Claude.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Let&amp;rsquo;s recap my journey of using various AI tools in a real customer project. The project was going for two years and focused primarily on modernization. What started as legacy hell, is now more maintainable. Deployments are more frequent and the customer gained more confidence developing new features.&lt;/p&gt;
+&lt;p&gt;The journey is split into three waves of AI usage and the last six months represent the last, third wave, which changed the way I work completely.&lt;/p&gt;</description></item></channel></rss>
