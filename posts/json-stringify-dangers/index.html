@@ -74,8 +74,8 @@ It avoids all the pitfalls described above. It bypasses <code>toJSON</code>, ign
 </span></span><span style=display:flex><span>}
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>inspect(circularObj) <span style=color:#6272a4>// &#39;&lt;ref *1&gt; { self: [Circular *1] }&#39;
-</span></span></span><span style=display:flex><span><span style=color:#6272a4></span>inspect(toJsonObj)   <span style=color:#6272a4>// &#39;{ toJSON: [Function: toJSON] }&#39;
-</span></span></span><span style=display:flex><span><span style=color:#6272a4></span>inspect(getterObj)   <span style=color:#6272a4>// &#39;{ fail: [Getter] }&#39;
+</span></span></span><span style=display:flex><span>inspect(toJsonObj)   <span style=color:#6272a4>// &#39;{ toJSON: [Function: toJSON] }&#39;
+</span></span></span><span style=display:flex><span>inspect(getterObj)   <span style=color:#6272a4>// &#39;{ fail: [Getter] }&#39;
 </span></span></span></code></pre></div><h2 id=conclusion>Conclusion
 <a class=heading-link href=#conclusion><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><p><code>JSON.stringify</code> seems like a simple and harmless tool, but as we&rsquo;ve seen, it can easily backfire in non-obvious ways. Whether it&rsquo;s circular references, <code>toJSON</code> methods, or getters that throw. Relying on it blindly during debugging or error handling can lead to confusing crashes or unexpected behavior.</p><p>For everyday logging and inspection, <code>util.inspect</code> is the safer and more reliable choice. It gives you control, avoids the pitfalls, and plays nicely with even the most complex objects.</p><p>Next time you&rsquo;re troubleshooting something weird, and things break the moment you try to log a response or error — take a closer look. It might just be <code>JSON.stringify</code> in the end 😉</p></div><footer></footer></article></section></div><footer class=footer><section class=container>©
