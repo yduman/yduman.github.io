@@ -39,7 +39,7 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/MaibornWolff/retro" class="external-link" target="_blank" rel="noopener"&gt;&lt;strong&gt;retro&lt;/strong&gt;&lt;/a&gt; Self-hostable web-app designed for remote retrospectives and planning poker sessions.&lt;/p&gt;</description></item><item><title>Uses</title><link>https://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/uses/</guid><description>&lt;p&gt;Things I use to create software&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Last updated: December 08, 2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Last updated: January 19, 2026&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id="editor"&gt;
  Editor
  &lt;a class="heading-link" href="#editor"&gt;
@@ -84,19 +84,21 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="desktop-apps"&gt;
- Desktop Apps
- &lt;a class="heading-link" href="#desktop-apps"&gt;
+&lt;h1 id="other-apps"&gt;
+ Other Apps
+ &lt;a class="heading-link" href="#other-apps"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Browser: &lt;a href="https://www.google.com/chrome/" class="external-link" target="_blank" rel="noopener"&gt;Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Main browser: &lt;a href="https://brave.com/" class="external-link" target="_blank" rel="noopener"&gt;Brave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Browser manager: &lt;a href="https://github.com/johnste/finicky" class="external-link" target="_blank" rel="noopener"&gt;Finicky&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Password manager: &lt;a href="https://1password.com/" class="external-link" target="_blank" rel="noopener"&gt;1Password&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Window manager: &lt;a href="https://rectangleapp.com/" class="external-link" target="_blank" rel="noopener"&gt;Rectangle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Window borders: &lt;a href="https://github.com/FelixKratz/JankyBorders" class="external-link" target="_blank" rel="noopener"&gt;JankyBorders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Keymaps: &lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener"&gt;Karabiner Elements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Notes/Todo: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener"&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes/Todos: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener"&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Music: &lt;a href="https://open.spotify.com/" class="external-link" target="_blank" rel="noopener"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;AI Research: &lt;a href="https://www.claude.com/download" class="external-link" target="_blank" rel="noopener"&gt;Claude Desktop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

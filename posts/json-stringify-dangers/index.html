@@ -80,7 +80,7 @@ It avoids all the pitfalls described above. It bypasses <code>toJSON</code>, ign
 <a class=heading-link href=#conclusion><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><p><code>JSON.stringify</code> seems like a simple and harmless tool, but as we&rsquo;ve seen, it can easily backfire in non-obvious ways. Whether it&rsquo;s circular references, <code>toJSON</code> methods, or getters that throw. Relying on it blindly during debugging or error handling can lead to confusing crashes or unexpected behavior.</p><p>For everyday logging and inspection, <code>util.inspect</code> is the safer and more reliable choice. It gives you control, avoids the pitfalls, and plays nicely with even the most complex objects.</p><p>Next time you&rsquo;re troubleshooting something weird, and things break the moment you try to log a response or error — take a closer look. It might just be <code>JSON.stringify</code> in the end 😉</p></div><footer></footer></article></section></div><footer class=footer><section class=container>©
 2018 -
-2025
+2026
 Yadullah Duman
 ·
 Powered by <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/ target=_blank rel=noopener>Coder</a>.</section></footer></main><script src=/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script></body></html>
