@@ -74,9 +74,12 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;li&gt;&lt;a href="https://github.com/dandavison/delta" class="external-link" target="_blank" rel="noopener"&gt;delta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/wagoodman/dive" class="external-link" target="_blank" rel="noopener"&gt;dive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/eza-community/eza" class="external-link" target="_blank" rel="noopener"&gt;eza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/sharkdp/fd" class="external-link" target="_blank" rel="noopener"&gt;fd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/junegunn/fzf" class="external-link" target="_blank" rel="noopener"&gt;fzf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/httpie/cli" class="external-link" target="_blank" rel="noopener"&gt;HTTPie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/jesseduffield/lazygit" class="external-link" target="_blank" rel="noopener"&gt;lazygit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/jesseduffield/lazydocker" class="external-link" target="_blank" rel="noopener"&gt;lazydocker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jesseduffield/lazygit" class="external-link" target="_blank" rel="noopener"&gt;lazygit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/LazyVim/LazyVim" class="external-link" target="_blank" rel="noopener"&gt;LazyVim&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/volta-cli/volta" class="external-link" target="_blank" rel="noopener"&gt;volta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/ajeetdsouza/zoxide" class="external-link" target="_blank" rel="noopener"&gt;zoxide&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/zsh-users/zsh-autosuggestions" class="external-link" target="_blank" rel="noopener"&gt;zsh-autosuggestions&lt;/a&gt;&lt;/li&gt;
