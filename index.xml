@@ -39,7 +39,7 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/MaibornWolff/retro" class="external-link" target="_blank" rel="noopener"&gt;&lt;strong&gt;retro&lt;/strong&gt;&lt;/a&gt; Self-hostable web-app designed for remote retrospectives and planning poker sessions.&lt;/p&gt;</description></item><item><title>Uses</title><link>https://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/uses/</guid><description>&lt;p&gt;Things I use to create software&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Last updated: January 19, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Last updated: January 24, 2026&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id="editor"&gt;
  Editor
  &lt;a class="heading-link" href="#editor"&gt;
@@ -65,7 +65,7 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;li&gt;Shell: &lt;a href="https://ohmyz.sh/" class="external-link" target="_blank" rel="noopener"&gt;oh-my-zsh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Prompt: &lt;a href="https://starship.rs/" class="external-link" target="_blank" rel="noopener"&gt;Starship&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Theme: &lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Font: &lt;a href="https://github.com/tonsky/FiraCode" class="external-link" target="_blank" rel="noopener"&gt;Fira Code Nerd Font&lt;/a&gt; or &lt;a href="https://github.com/subframe7536/maple-font" class="external-link" target="_blank" rel="noopener"&gt;Maple Mono Nerd Font&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Font: &lt;a href="https://github.com/tonsky/FiraCode" class="external-link" target="_blank" rel="noopener"&gt;Fira Code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Coding Agent: &lt;a href="https://www.claude.com/product/claude-code" class="external-link" target="_blank" rel="noopener"&gt;Claude Code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tools:
 &lt;ul&gt;
@@ -102,8 +102,10 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;li&gt;Window borders: &lt;a href="https://github.com/FelixKratz/JankyBorders" class="external-link" target="_blank" rel="noopener"&gt;JankyBorders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Keymaps: &lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener"&gt;Karabiner Elements&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Notes/Todos: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener"&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sketches: &lt;a href="https://www.goodnotes.com/" class="external-link" target="_blank" rel="noopener"&gt;Goodnotes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Music: &lt;a href="https://open.spotify.com/" class="external-link" target="_blank" rel="noopener"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;AI Research: &lt;a href="https://www.claude.com/download" class="external-link" target="_blank" rel="noopener"&gt;Claude Desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dictation: &lt;a href="https://github.com/altic-dev/FluidVoice/" class="external-link" target="_blank" rel="noopener"&gt;FluidVoice&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="hardware"&gt;
  Hardware
@@ -114,7 +116,7 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;MacBook Pro 16&amp;quot; M2 Max 64GB&lt;/li&gt;
-&lt;li&gt;Monitors: 2x Gigabyte M28U 4K 144Hz&lt;/li&gt;
+&lt;li&gt;Monitors: 2x Gigabyte M28U 4K 144Hz and iPad Pro, 12.9&amp;quot; (5th generation) as sidecar&lt;/li&gt;
 &lt;li&gt;Mic: Blue Yeti&lt;/li&gt;
 &lt;li&gt;Headphones: HyperX Cloud III&lt;/li&gt;
 &lt;li&gt;Keyboard: Evo80 ISO-DE with Neo Oat Switches&lt;/li&gt;
