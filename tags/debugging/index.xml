@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Debugging on yduman.dev</title><link>https://www.yduman.dev/tags/debugging/</link><description>Recent content in Debugging on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/tags/debugging/index.xml" rel="self" type="application/rss+xml"/><item><title>My Debugging Workflow with Agents</title><link>https://www.yduman.dev/posts/debugging-workflow-with-agents/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/debugging-workflow-with-agents/</guid><description>&lt;div class="notice note"&gt;
+ &lt;div class="notice-title"&gt;
+ &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
+ &lt;/div&gt;
+ &lt;div class="notice-content"&gt;This post is fully written by me and was checked for typos and grammar errors with Claude.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Debugging is where agents shine a lot. I &lt;a href="https://www.yduman.dev/posts/six-months-of-agentic-coding/#fixing-bugs-faster" &gt;briefly touched on this&lt;/a&gt; in my previous post and I think this topic deserves its own deep dive, because the workflow is more nuanced than just &amp;ldquo;paste the error and let the agent fix it&amp;rdquo;. Over months of real-world usage, I developed three levels of debugging that I apply based on how nasty the bug is.&lt;/p&gt;</description></item></channel></rss>
