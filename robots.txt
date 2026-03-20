@@ -1,1 +1,4 @@
 User-agent: *
+Disallow:
+
+Sitemap: https://www.yduman.dev/sitemap.xml
