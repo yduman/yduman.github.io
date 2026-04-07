@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Local AI on yduman.dev</title><link>https://www.yduman.dev/tags/local-ai/</link><description>Recent content in Local AI on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/tags/local-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>The Case for Learning Local AI</title><link>https://www.yduman.dev/posts/local-ai-skills/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/local-ai-skills/</guid><description>&lt;div class="notice note"&gt;
+ &lt;div class="notice-title"&gt;
+ &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
+ &lt;/div&gt;
+ &lt;div class="notice-content"&gt;This post is fully written by me and was checked for typos and grammar errors with Claude.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We talk a lot about agentic coding, but there is a skillset emerging that I think is far more valuable and far less discussed.&lt;/p&gt;
+&lt;p&gt;I have been &lt;a href="https://www.yduman.dev/posts/six-months-of-agentic-coding/" &gt;deep in agentic coding workflows&lt;/a&gt; and &lt;a href="https://www.yduman.dev/posts/debugging-workflow-with-agents/" &gt;debugging with agents&lt;/a&gt;. Through that work, I started noticing that the entire conversation around AI assumes that cloud APIs are a given. That assumption is breaking down fast.&lt;/p&gt;</description></item></channel></rss>
