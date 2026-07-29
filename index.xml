@@ -66,34 +66,51 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/MaibornWolff/retro" class="external-link" target="_blank" rel="noopener"&gt;&lt;strong&gt;retro&lt;/strong&gt;&lt;/a&gt; Self-hostable web-app designed for remote retrospectives and planning poker sessions.&lt;/p&gt;</description></item><item><title>Uses</title><link>https://www.yduman.dev/uses/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/uses/</guid><description>&lt;p&gt;Things I use to create software&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Last updated: July 29, 2026&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id="editor"&gt;
+&lt;h2 id="editor"&gt;
  Editor
  &lt;a class="heading-link" href="#editor"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
+&lt;div class="pills"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://code.visualstudio.com/" class="external-link" target="_blank" rel="noopener"&gt;Visual Studio Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Font: &lt;a href="https://github.com/subframe7536/maple-font" class="external-link" target="_blank" rel="noopener"&gt;Maple Mono&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Theme: &lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Icons: &lt;a href="https://github.com/material-extensions/vscode-material-icon-theme" class="external-link" target="_blank" rel="noopener"&gt;Material Icon Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/subframe7536/maple-font" class="external-link" target="_blank" rel="noopener"&gt;Maple Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/material-extensions/vscode-material-icon-theme" class="external-link" target="_blank" rel="noopener"&gt;Material Icon Theme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="terminal"&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="terminal"&gt;
  Terminal
  &lt;a class="heading-link" href="#terminal"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
+&lt;div class="pills"&gt;
 &lt;ul&gt;
-&lt;li&gt;Emulator: &lt;a href="https://ghostty.org/" class="external-link" target="_blank" rel="noopener"&gt;Ghostty&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Shell: &lt;a href="https://ohmyz.sh/" class="external-link" target="_blank" rel="noopener"&gt;oh-my-zsh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Prompt: &lt;a href="https://starship.rs/" class="external-link" target="_blank" rel="noopener"&gt;Starship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Theme: &lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Font: &lt;a href="https://github.com/subframe7536/maple-font" class="external-link" target="_blank" rel="noopener"&gt;Maple Mono Nerd Font&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Coding Agent: &lt;a href="https://www.claude.com/product/claude-code" class="external-link" target="_blank" rel="noopener"&gt;Claude Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tools:
+&lt;li&gt;&lt;a href="https://ghostty.org/" class="external-link" target="_blank" rel="noopener"&gt;Ghostty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ohmyz.sh/" class="external-link" target="_blank" rel="noopener"&gt;oh-my-zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://starship.rs/" class="external-link" target="_blank" rel="noopener"&gt;Starship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://draculatheme.com/" class="external-link" target="_blank" rel="noopener"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/subframe7536/maple-font" class="external-link" target="_blank" rel="noopener"&gt;Maple Mono Nerd Font&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.claude.com/product/claude-code" class="external-link" target="_blank" rel="noopener"&gt;Claude Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pi.dev/" class="external-link" target="_blank" rel="noopener"&gt;Pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="tools"&gt;
+ Tools
+ &lt;a class="heading-link" href="#tools"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class="pills"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/atuinsh/atuin" class="external-link" target="_blank" rel="noopener"&gt;atuin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/sharkdp/bat" class="external-link" target="_blank" rel="noopener"&gt;bat&lt;/a&gt;&lt;/li&gt;
@@ -111,40 +128,48 @@ Nowadays, I believe you should not use it when debugging, as there are a couple 
 &lt;li&gt;&lt;a href="https://github.com/zsh-users/zsh-autosuggestions" class="external-link" target="_blank" rel="noopener"&gt;zsh-autosuggestions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/zsh-users/zsh-syntax-highlighting" class="external-link" target="_blank" rel="noopener"&gt;zsh-syntax-highlighting&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id="other-apps"&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="other-apps"&gt;
  Other Apps
  &lt;a class="heading-link" href="#other-apps"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
+&lt;div class="pills"&gt;
 &lt;ul&gt;
-&lt;li&gt;Main browser: &lt;a href="https://www.firefox.com/" class="external-link" target="_blank" rel="noopener"&gt;Firefox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Password manager: &lt;a href="https://1password.com/" class="external-link" target="_blank" rel="noopener"&gt;1Password&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Window manager: &lt;a href="https://rectangleapp.com/" class="external-link" target="_blank" rel="noopener"&gt;Rectangle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Keymaps: &lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener"&gt;Karabiner Elements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Notes/Todos: &lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener"&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sketches: &lt;a href="https://www.goodnotes.com/" class="external-link" target="_blank" rel="noopener"&gt;Goodnotes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Music: &lt;a href="https://open.spotify.com/" class="external-link" target="_blank" rel="noopener"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dictation: &lt;a href="https://github.com/altic-dev/FluidVoice/" class="external-link" target="_blank" rel="noopener"&gt;FluidVoice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.firefox.com/" class="external-link" target="_blank" rel="noopener"&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://1password.com/" class="external-link" target="_blank" rel="noopener"&gt;1Password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rectangleapp.com/" class="external-link" target="_blank" rel="noopener"&gt;Rectangle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://karabiner-elements.pqrs.org/" class="external-link" target="_blank" rel="noopener"&gt;Karabiner Elements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener"&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodnotes.com/" class="external-link" target="_blank" rel="noopener"&gt;Goodnotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://open.spotify.com/" class="external-link" target="_blank" rel="noopener"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/altic-dev/FluidVoice/" class="external-link" target="_blank" rel="noopener"&gt;FluidVoice&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="hardware"&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="hardware"&gt;
  Hardware
  &lt;a class="heading-link" href="#hardware"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
+&lt;div class="pills"&gt;
 &lt;ul&gt;
-&lt;li&gt;MacBook Pro 16&amp;quot; M5 Max 128GB&lt;/li&gt;
-&lt;li&gt;Monitors: 2x Gigabyte M28U 4K 144Hz&lt;/li&gt;
-&lt;li&gt;Mic: Blue Yeti&lt;/li&gt;
-&lt;li&gt;Headphones: HyperX Cloud III&lt;/li&gt;
-&lt;li&gt;Keyboard: Evo80 ISO-DE with Neo Oat Switches&lt;/li&gt;
-&lt;li&gt;Mouse: Logitech G502&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>How to turn off logging in NestJS tests</title><link>https://www.yduman.dev/posts/nestjs-testing-disable-logging/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/nestjs-testing-disable-logging/</guid><description>&lt;p&gt;This post will be very short. I want to share one approach on how to deal with the Logger class when running NestJS unit tests. In one of our projects, we had a small issue, that when running tests, the logger would start logging when certain branches of the code were reached. Obviously, these branches should log when running on production, but for tests, we didn&amp;rsquo;t care much.&lt;/p&gt;
+&lt;li&gt;&lt;a href="" &gt;MacBook Pro M5 Max 128GB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="" &gt;Gigabyte M28U 4K 144Hz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="" &gt;Blue Yeti Mic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="" &gt;HyperX Cloud III&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="" &gt;Evo80 + Neo Oat Switches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="" &gt;Logitech G502&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;</description></item><item><title>How to turn off logging in NestJS tests</title><link>https://www.yduman.dev/posts/nestjs-testing-disable-logging/</link><pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/nestjs-testing-disable-logging/</guid><description>&lt;p&gt;This post will be very short. I want to share one approach on how to deal with the Logger class when running NestJS unit tests. In one of our projects, we had a small issue, that when running tests, the logger would start logging when certain branches of the code were reached. Obviously, these branches should log when running on production, but for tests, we didn&amp;rsquo;t care much.&lt;/p&gt;
 &lt;h2 id="example-scenario"&gt;
  Example Scenario
  &lt;a class="heading-link" href="#example-scenario"&gt;
