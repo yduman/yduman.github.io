@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>yduman.dev</title><link>https://www.yduman.dev/</link><description>Recent content on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>The Case for Learning Local AI</title><link>https://www.yduman.dev/posts/local-ai-skills/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/local-ai-skills/</guid><description>&lt;div class="notice note"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>yduman.dev</title><link>https://www.yduman.dev/</link><description>Recent content on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Talks</title><link>https://www.yduman.dev/talks/</link><pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/talks/</guid><description>&lt;h2 id="2026"&gt;
+ 2026
+ &lt;a class="heading-link" href="#2026"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://software-architektur.tv/2026/05/27/episode313.html" class="external-link" target="_blank" rel="noopener"&gt;&lt;strong&gt;Software Architektur im Stream — Folge 313: Best Practices für Agentic Coding&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;(Podcast, 2026-05-27)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Guest episode with my colleague Tobias Wagner, hosted by Eberhard Wolff and Ralf D. Müller. We talked about best practices for agentic coding, context and harness engineering, and where the productivity gains actually show up in real projects.&lt;/p&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+			&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/n7yc_gYn0yQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+		&lt;/div&gt;</description></item><item><title>The Case for Learning Local AI</title><link>https://www.yduman.dev/posts/local-ai-skills/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/local-ai-skills/</guid><description>&lt;div class="notice note"&gt;
  &lt;div class="notice-title"&gt;
  &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
  &lt;/div&gt;
