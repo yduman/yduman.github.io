@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agentic Coding on yduman.dev</title><link>https://www.yduman.dev/tags/agentic-coding/</link><description>Recent content in Agentic Coding on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/tags/agentic-coding/index.xml" rel="self" type="application/rss+xml"/><item><title>My Debugging Workflow with Agents</title><link>https://www.yduman.dev/posts/debugging-workflow-with-agents/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/debugging-workflow-with-agents/</guid><description>&lt;div class="notice note"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agentic Coding on yduman.dev</title><link>https://www.yduman.dev/tags/agentic-coding/</link><description>Recent content in Agentic Coding on yduman.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yduman.dev/tags/agentic-coding/index.xml" rel="self" type="application/rss+xml"/><item><title>Security in the agentic era</title><link>https://www.yduman.dev/posts/security-in-the-agentic-era/</link><pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/security-in-the-agentic-era/</guid><description>&lt;div class="notice note"&gt;
+ &lt;div class="notice-title"&gt;
+ &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
+ &lt;/div&gt;
+ &lt;div class="notice-content"&gt;This post was fully written by me. Typos and grammar errors were checked with Claude.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In &lt;a href="https://www.yduman.dev/posts/local-ai-skills/" &gt;my last post&lt;/a&gt; I mentioned that &lt;em&gt;&amp;ldquo;security is not optional&amp;rdquo;&lt;/em&gt;, touching briefly on the lethal trifecta, data leakage and sandboxing.
+With this post I want to show some concrete examples of why security is extremely important, especially when rolling out agentic workflows in enterprises.&lt;/p&gt;
+&lt;p&gt;Security, as always, is for most people an afterthought. In the agentic era, it is actually very scary what you can achieve with minimal effort.
+This motivated me in recent months to show customers and our colleagues in trainings what attacks can look like. Their faces during the demo are always priceless.
+So, in the words of Steve Yegge, &lt;a href="https://www.youtube.com/watch?v=yWS0udrIOc8" class="external-link" target="_blank" rel="noopener"&gt;be scared&lt;/a&gt;!&lt;/p&gt;</description></item><item><title>My Debugging Workflow with Agents</title><link>https://www.yduman.dev/posts/debugging-workflow-with-agents/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://www.yduman.dev/posts/debugging-workflow-with-agents/</guid><description>&lt;div class="notice note"&gt;
  &lt;div class="notice-title"&gt;
  &lt;i class="fa-solid fa-sticky-note" aria-hidden="true"&gt;&lt;/i&gt;Note
  &lt;/div&gt;
